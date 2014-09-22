@@ -1,0 +1,10 @@
+#ignore pyc file
+*.pyc
+
+#ignore gedit file
+*~
+
+#ignore eclipse workspace
+.project
+.pydevproject
+.settings/
